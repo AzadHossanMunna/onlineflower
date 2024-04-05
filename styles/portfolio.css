@@ -1,0 +1,45 @@
+header{
+    background: rgba(229, 84, 115, 0.10);
+    width: 1920px;
+height: 850px;
+flex-shrink: 0;
+
+padding-top: 50px;
+padding-left: 240px;
+background: #E554731A;
+
+}
+.title{
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    width: 708px;
+    margin-bottom: 32px;
+}
+.header-naration{
+    width: 634px;
+    color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+margin-bottom: 32px;
+}
+.btn-basic{
+    color: #FFF;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+border-radius: 8px;
+background: #E55473;
+border: none;
+}
